@@ -1,0 +1,35 @@
+https://www.w3schools.com/java/java_operators.asp
+
+Equality operators           java equality or relation operator
+=                            ==
+≠                            !=
+
+Relational operators        java equality or relation operator
+>                           >
+<                           <
+≥                           >=
+≤                           <=
+
+ESC sequence
+\n : new line
+\t : horizontal tab
+\\ : backslash
+\" : quotes
+
+String - stores text, such as "Hello". String values are surrounded by double quotes
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+float - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+boolean - stores values with two states: true or false
+
+short hand if else
+variable = (condition) ? expressionTrue :  expressionFalse;
+
+primitive = exact
+  int
+  DOUBLE
+  bool
+refrence 
+  created off classes
+
+AND GOES BEFORE OR IN PRESCdance
